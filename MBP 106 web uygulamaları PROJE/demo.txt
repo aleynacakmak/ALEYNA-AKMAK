@@ -1,0 +1,5 @@
+    <p id="p1>Aleyna Çakmak</p>
+        <img  src="İstanbul_Ticaret_Üniversitesi_Logo.png" alt="">
+         <p>Okul Numarası:200029986</p>
+         <p>Bölüm:Bilgisayar Programcılığı</p>
+         
